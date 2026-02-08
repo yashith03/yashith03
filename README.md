@@ -117,13 +117,13 @@ const yashith = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=yashith03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=20" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=yashith03&theme=tokyonight&hide_border=true&v=20" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashith03&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&v=3" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=yashith03&theme=tokyonight&hide_border=true&v=3" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=yashith03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&v=20" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashith03&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&v=20" alt="Activity Graph" />
+  <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashith03&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=400&v=3" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yashith03&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph&v=3" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -131,7 +131,7 @@ const yashith = {
 ## 🏆 GitHub Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashith03&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=2&column=4&v=20" alt="GitHub Achievements" />
+  <img src="https://metrics.lecoq.io/yashith03?template=classic&base=0&plugin_achievements=1&plugin_achievements_display=compact&plugin_achievements_threshold=C&v=3" alt="GitHub Achievements" />
 </div>
 
 <br/>
