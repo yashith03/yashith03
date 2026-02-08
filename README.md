@@ -128,15 +128,7 @@ const yashith = {
 
 <br/>
 
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/yashith03?template=classic&base=0&plugin_achievements=1&plugin_achievements_display=compact&plugin_achievements_threshold=C&v=3" alt="GitHub Achievements" />
-</div>
-
-<br/>
-
-## 🌐 Connect With Me
+##  Connect With Me
 
 <div align="center">
   
