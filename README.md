@@ -24,17 +24,25 @@
 
 <br/>
 
+## �‍💻 Professional Summary
+
+I am a results-driven **Software Engineering Undergraduate** based in **Sri Lanka** 🇱🇰, with a deep passion for bridging the gap between innovative design and scalable backend logic. My expertise lies in **Full-Stack Web Development** and **AI-powered solutions**, where I focus on creating seamless user experiences integrated with intelligent automation.
+
+Currently, I am spearheading the development of **[AI Recruiter](https://ai-recruiterapp.vercel.app)**, a cutting-edge voice-based AI interview platform that leverages NLP and speech recognition to revolutionize the hiring process. Beyond development, I have a strong background in **QA Automation**, frequently "breaking" my own applications to ensure they meet the highest standards of robustness and reliability.
+
+<br/>
+
 ## 🚀 About Me
 
 ```javascript
 const yashith = {
-    location: "Sri Lanka 🇱🇰",
-    currentFocus: "AI & Full-Stack Development",
-    learning: ["TensorFlow", "PyTorch", "Computer Vision", "NLP"],
-    currentProject: "AI Recruiter - Voice-based Interview Platform",
-    funFact: "I enjoy breaking my own apps just to test how strong they really are 🔨",
-    askMeAbout: ["Web Dev", "AI/ML", "QA Automation", "System Design"],
-    reachMe: "yashithc.dev@gmail.com"
+    identity: "Software Engineering Student & AI Enthusiast",
+    location: "Colombo, Sri Lanka 🇱🇰",
+    core_competencies: ["Full-stack Web Dev", "QA Automation", "AI/ML Integration"],
+    current_focus: "Voice AI & Natural Language Processing",
+    motto: "Building reliable products by breaking them first 🔨",
+    portfolio: "https://yashith-chandeepa.vercel.app",
+    email: "yashithc.dev@gmail.com"
 };
 ```
 
