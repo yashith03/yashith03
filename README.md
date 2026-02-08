@@ -26,9 +26,9 @@
 
 ## �‍💻 Professional Summary
 
-I am a results-driven **Software Engineering Undergraduate** based in **Sri Lanka** 🇱🇰, with a deep passion for bridging the gap between innovative design and scalable backend logic. My expertise lies in **Full-Stack Web Development** and **AI-powered solutions**, where I focus on creating seamless user experiences integrated with intelligent automation.
+🎓 I am a Software Engineering undergraduate at the University of Westminster (IIT Sri Lanka) and a Full-Stack Software Engineer Intern with hands-on experience building scalable web and mobile applications. I work across the full stack using React, Next.js, React Native (Expo), Node.js, NestJS, and Spring Boot, with strong experience in REST API development and databases such as PostgreSQL and MongoDB. I also bring a quality-focused mindset, with practical experience in manual testing, API testing, and automation using Selenium and Appium, ensuring reliable and well-tested systems.
 
-Currently, I am spearheading the development of **[AI Recruiter](https://ai-recruiterapp.vercel.app)**, a cutting-edge voice-based AI interview platform that leverages NLP and speech recognition to revolutionize the hiring process. Beyond development, I have a strong background in **QA Automation**, frequently "breaking" my own applications to ensure they meet the highest standards of robustness and reliability.
+🚀 I am comfortable working in Agile development environments and applying DevOps practices including Docker, CI/CD pipelines, and cloud-based deployments. I am a fast learner with strong problem-solving skills and a keen interest in building clean, maintainable, and user-focused solutions, while continuously expanding my knowledge in cloud computing, automation, and scalable system architecture.
 
 <br/>
 
